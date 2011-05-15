@@ -54,9 +54,3 @@ If you pass aoColumn array with definition of the individual column filters you 
  * null - do not add filter in the column,
  * number range - add two from-to filters to filter the number in the range,
  * date-range - add two from-to calendard to filter the dates in the range.
-
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
